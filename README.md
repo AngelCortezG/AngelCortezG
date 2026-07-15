@@ -2,7 +2,7 @@
 
 ### Cat lover and hobbyist video game developer
 
-- 🔭 I'm currently working on **little indie video game.**
+- 🔭 I'm currently working on **a little indie video game.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
